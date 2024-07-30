@@ -18,7 +18,7 @@ p {
 }
 
 section {
-  height: 460px;
+  height: 430px;
   background-color: black;
   color: white;
   padding: 24px 72px;
@@ -130,6 +130,7 @@ nav button {
 }
 .card {
   display: inline-flexbox;
+  margin-bottom: 45px;
 }
 
 #headers {
